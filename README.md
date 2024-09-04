@@ -10,4 +10,4 @@ DJ16_6A.int is based on DJ16_6.int + includes modified monopoles;
 DJ16_6B.int is based on DJ16_6A.int + includes a few modified quadrupole pairing TBMEs (in the T=0 channel).
 
 See for details: 
-I.J. Shin, N.A. Smirnova, A.M. Shirokov, Z. Yang, B.R. Barrett, Z. Li, Y. Kim, P. Maris, J.P. Vary, submitted to Phys. Rev. C (2023).
+I.J. Shin, N.A. Smirnova, A.M. Shirokov, Z. Yang, B.R. Barrett, Z. Li, Y. Kim, P. Maris, J.P. Vary, Phys. Rev. C (2024).
